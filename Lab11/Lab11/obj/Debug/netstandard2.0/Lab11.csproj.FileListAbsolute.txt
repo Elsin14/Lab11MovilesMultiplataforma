@@ -1,0 +1,15 @@
+C:\Users\toshiba\source\repos\Lab11\Lab11\Lab11\bin\Debug\netstandard2.0\Lab11.deps.json
+C:\Users\toshiba\source\repos\Lab11\Lab11\Lab11\bin\Debug\netstandard2.0\Lab11.dll
+C:\Users\toshiba\source\repos\Lab11\Lab11\Lab11\bin\Debug\netstandard2.0\ref\Lab11.dll
+C:\Users\toshiba\source\repos\Lab11\Lab11\Lab11\bin\Debug\netstandard2.0\Lab11.pdb
+C:\Users\toshiba\source\repos\Lab11\Lab11\Lab11\obj\Debug\netstandard2.0\Lab11.csprojAssemblyReference.cache
+C:\Users\toshiba\source\repos\Lab11\Lab11\Lab11\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\toshiba\source\repos\Lab11\Lab11\Lab11\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\toshiba\source\repos\Lab11\Lab11\Lab11\obj\Debug\netstandard2.0\Views\Operations.xaml.g.cs
+C:\Users\toshiba\source\repos\Lab11\Lab11\Lab11\obj\Debug\netstandard2.0\Lab11.AssemblyInfoInputs.cache
+C:\Users\toshiba\source\repos\Lab11\Lab11\Lab11\obj\Debug\netstandard2.0\Lab11.AssemblyInfo.cs
+C:\Users\toshiba\source\repos\Lab11\Lab11\Lab11\obj\Debug\netstandard2.0\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\Lab11\Lab11\Lab11\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\toshiba\source\repos\Lab11\Lab11\Lab11\obj\Debug\netstandard2.0\Lab11.dll
+C:\Users\toshiba\source\repos\Lab11\Lab11\Lab11\obj\Debug\netstandard2.0\ref\Lab11.dll
+C:\Users\toshiba\source\repos\Lab11\Lab11\Lab11\obj\Debug\netstandard2.0\Lab11.pdb
